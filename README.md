@@ -1,3 +1,11 @@
+# TIC-TAC-TOE
+
+This is a project implemented by React aimed to learn and practice React skills.
+- The two players can alternate.
+- Be able to determine when a player has won.
+- Be able to record the progress of the game.
+- Allow the player to view the history of the game, and also can return any historical version of the game board state.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
